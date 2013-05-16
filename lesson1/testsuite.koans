@@ -6,3 +6,7 @@ SavingTheResults
 
 # To make this pass you need to alter the options
 TheOptionsAreTheCommandLineArguments
+EnvironmentVariables
+MultipleEnvironmentVariables
+EnvironmentVariablesAreInheritedFromParentSuite
+EnvironmentVariablesOverrideThoseFromParentSuite
