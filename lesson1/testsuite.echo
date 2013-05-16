@@ -1,8 +1,0 @@
-# Select this test and hit the Run button to start
-RunningTest
-
-# After you run it, hit Save and then rerun it
-SavingTheResults
-
-# To make this pass you need to alter the options
-TheOptionsAreTheCommandLineArguments
