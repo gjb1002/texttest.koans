@@ -1,0 +1,7 @@
+RunToDiscoverUsage
+
+# The __blank__ is in config.lesson2
+IncludeDataFileInSandbox
+
+# Hint: Look at the previous test
+FilterInconsistentLine

@@ -1,0 +1,5 @@
+copy_test_path:____
+
+[run_dependent_text]
+stdout:searchreplace.py running at
+stdout:{INTERNAL writedir}{REPLACE <sandbox>}

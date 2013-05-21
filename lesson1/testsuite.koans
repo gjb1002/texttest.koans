@@ -6,7 +6,12 @@ SavingTheResults
 
 # To make this pass you need to alter the options
 TheOptionsAreTheCommandLineArguments
+
+# Hint: double-click the red "stdout" file to see a graphical difference
 EnvironmentVariables
+# Hint: double-click the red "stdout" file to see a graphical difference
 MultipleEnvironmentVariables
+# Hint: double-click the red "stdout" file to see a graphical difference
 EnvironmentVariablesAreInheritedFromParentSuite
+# Hint: double-click the red "stdout" file to see a graphical difference
 EnvironmentVariablesOverrideThoseFromParentSuite

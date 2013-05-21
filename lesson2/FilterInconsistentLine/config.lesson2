@@ -1,0 +1,6 @@
+copy_test_path:fish.txt
+
+[run_dependent_text]
+stdout:searchreplace.py ____ at
+stdout:Replacing in
+
