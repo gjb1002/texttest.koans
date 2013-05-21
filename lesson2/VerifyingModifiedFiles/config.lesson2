@@ -1,0 +1,8 @@
+copy_test_path:fish.txt
+
+[run_dependent_text]
+stdout:searchreplace.py running at
+stdout:Replacing in
+
+[collate_file]
+editedfish:____

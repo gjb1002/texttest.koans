@@ -1,0 +1,8 @@
+searchreplace.py running at 21May22:05:38
+Replacing 'dog' with 'cat'
+Replacing in /home/geoff/.texttest/tmp/lesson2.21May220537.6710/lesson2/AnswerOnStandardInput/fish.txt
+1c1
+< dogfish
+---
+> catfish
+OK to commit?
